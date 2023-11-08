@@ -1,0 +1,13 @@
+@charset "UTF-8";
+#chatArea {
+	width: 700px;
+	height: 300px;
+	overflow-y: auto;
+	border: 1px solid black;
+}
+#adArea {
+	width: 700px;
+	height: 300px;
+	overflow-y: auto;
+	border: 1px solid black;
+}
